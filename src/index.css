@@ -1,13 +1,20 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url('./vendor/normalize.css');
+@import url('./vendor/fonts/fonts.css');
+@import url('./blocks/app.css');
+@import url('./blocks/recipeCard.css');
+@import url('./blocks/recipeList.css');
+@import url('./blocks/header.css');
+@import url('./blocks/buttons.css');
+@import url('./blocks/form.css');
+@import url('./blocks/recipe.css');
+@import url('./blocks/footer.css');
+@import url('./blocks/recipeSection.css');
+@import url('./blocks/cookingGif.css');
+@import url('./blocks/responsive.css');
+
+:root {
+    scroll-behavior: smooth;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+
+

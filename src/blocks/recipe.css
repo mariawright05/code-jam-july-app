@@ -1,0 +1,88 @@
+
+.recipe {
+    background-color: #fff;
+    padding: 40px;
+    margin: 40px;
+    margin-left: 0;
+    border-radius: 10px;
+    margin-bottom: 0;
+}
+
+.recipe__title {
+    font-family: 'IBM Plex Sans', 'Arial', sans-serif;
+    font-size: 40px;
+    line-height: 48px;
+    color: #081E41;
+    font-weight: 700;
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.recipe__source {
+    font-family: 'Chivo', 'Arial', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    margin: 0;
+    margin-bottom: 8px;
+    color: #333;
+}
+
+.recipe__url {
+    font-family: 'Chivo', 'Arial', sans-serif;
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 400;
+    margin: 0;
+    margin-bottom: 20px;
+    text-decoration: underline;
+    transition: .15s linear;
+    color: #333;
+    word-break: break-all;
+}
+
+.recipe__url:hover {
+    color: #3E96F7;
+}
+
+.recipe__image_box {
+    max-width: 250px;
+    width: 100%;
+    max-height: 250px;
+    margin: 0 auto;
+    margin-top: 20px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.recipe__image{
+    width: 100%;
+    height: auto;
+}
+
+.recipe__subtitle {
+    font-family: 'IBM Plex Sans', 'Arial', sans-serif;
+    font-size: 28px;
+    line-height: 33px;
+    color: #081E41;
+
+}
+
+.recipe__body {
+    font-family: 'Chivo', 'Arial', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    margin: 0;
+}
+
+.recipe__ingredients{
+    font-size: 18px;
+    line-height: 29px;
+}
+
+.recipe__instruction{
+    font-size: 18px;
+    line-height: 29px;
+}
