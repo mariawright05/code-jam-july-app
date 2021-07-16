@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.a158aa9b.chunk.css",
-    "main.js": "/static/js/main.5da3fba0.chunk.js",
-    "main.js.map": "/static/js/main.5da3fba0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d4c161d5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d4c161d5.js.map",
-    "static/js/2.365eeca2.chunk.js": "/static/js/2.365eeca2.chunk.js",
-    "static/js/2.365eeca2.chunk.js.map": "/static/js/2.365eeca2.chunk.js.map",
-    "static/js/3.8cfafc5a.chunk.js": "/static/js/3.8cfafc5a.chunk.js",
-    "static/js/3.8cfafc5a.chunk.js.map": "/static/js/3.8cfafc5a.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.a158aa9b.chunk.css.map": "/static/css/main.a158aa9b.chunk.css.map",
-    "static/js/2.365eeca2.chunk.js.LICENSE.txt": "/static/js/2.365eeca2.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/trash.25573796.svg",
-    "static/media/cooking-at-home.f5f2ac46.gif": "/static/media/cooking-at-home.f5f2ac46.gif"
+    "main.css": "/code-jam-july-app/static/css/main.db8b6b89.chunk.css",
+    "main.js": "/code-jam-july-app/static/js/main.5da3fba0.chunk.js",
+    "main.js.map": "/code-jam-july-app/static/js/main.5da3fba0.chunk.js.map",
+    "runtime-main.js": "/code-jam-july-app/static/js/runtime-main.f09a7c31.js",
+    "runtime-main.js.map": "/code-jam-july-app/static/js/runtime-main.f09a7c31.js.map",
+    "static/js/2.365eeca2.chunk.js": "/code-jam-july-app/static/js/2.365eeca2.chunk.js",
+    "static/js/2.365eeca2.chunk.js.map": "/code-jam-july-app/static/js/2.365eeca2.chunk.js.map",
+    "static/js/3.8cfafc5a.chunk.js": "/code-jam-july-app/static/js/3.8cfafc5a.chunk.js",
+    "static/js/3.8cfafc5a.chunk.js.map": "/code-jam-july-app/static/js/3.8cfafc5a.chunk.js.map",
+    "index.html": "/code-jam-july-app/index.html",
+    "static/css/main.db8b6b89.chunk.css.map": "/code-jam-july-app/static/css/main.db8b6b89.chunk.css.map",
+    "static/js/2.365eeca2.chunk.js.LICENSE.txt": "/code-jam-july-app/static/js/2.365eeca2.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/code-jam-july-app/static/media/trash.25573796.svg",
+    "static/media/cooking-at-home.f5f2ac46.gif": "/code-jam-july-app/static/media/cooking-at-home.f5f2ac46.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.d4c161d5.js",
+    "static/js/runtime-main.f09a7c31.js",
     "static/js/2.365eeca2.chunk.js",
-    "static/css/main.a158aa9b.chunk.css",
+    "static/css/main.db8b6b89.chunk.css",
     "static/js/main.5da3fba0.chunk.js"
   ]
 }
