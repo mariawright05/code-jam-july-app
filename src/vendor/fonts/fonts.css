@@ -1,0 +1,22 @@
+@font-face{
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 700;
+  src:url("./IBMPlexSans-Bold.woff") format('woff');
+  
+}
+
+@font-face {
+  font-family: "Chivo";
+  font-style: normal;
+  font-weight: 400;
+  src: url("./Chivo-Regular.woff") format("woff");
+  
+}
+@font-face {
+  font-family: "Chivo";
+  font-style: normal;
+  font-weight: 700;
+  src: url("./Chivo-Bold.woff") format("woff");
+  
+}
