@@ -1,0 +1,32 @@
+.fieldset {
+    padding: 0;
+    margin: 0;
+    border: none;
+}
+.fieldset:not(:first-child){
+    margin-top: 20px;
+}
+.form_label{
+    display: block;
+    font-size: 22px;
+    line-height: 36px;
+    color: #333333;
+}
+.form__input{
+    width: 100%;
+    border: none;
+    background: #F2F8FE;
+    border-radius: 4px;
+    padding: 12px;
+    box-sizing: border-box;
+}
+.form__textarea{
+    width: 100%;
+    border: none;
+    background: #F2F8FE;
+    border-radius: 4px;
+    padding: 12px;
+    height: 150px;
+    resize: none;
+    box-sizing: border-box;
+}
