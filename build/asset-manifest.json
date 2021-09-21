@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/code-jam-july-app/static/css/main.db8b6b89.chunk.css",
-    "main.js": "/code-jam-july-app/static/js/main.5da3fba0.chunk.js",
-    "main.js.map": "/code-jam-july-app/static/js/main.5da3fba0.chunk.js.map",
+    "main.js": "/code-jam-july-app/static/js/main.8a5bcb19.chunk.js",
+    "main.js.map": "/code-jam-july-app/static/js/main.8a5bcb19.chunk.js.map",
     "runtime-main.js": "/code-jam-july-app/static/js/runtime-main.f09a7c31.js",
     "runtime-main.js.map": "/code-jam-july-app/static/js/runtime-main.f09a7c31.js.map",
     "static/js/2.365eeca2.chunk.js": "/code-jam-july-app/static/js/2.365eeca2.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.f09a7c31.js",
     "static/js/2.365eeca2.chunk.js",
     "static/css/main.db8b6b89.chunk.css",
-    "static/js/main.5da3fba0.chunk.js"
+    "static/js/main.8a5bcb19.chunk.js"
   ]
 }
